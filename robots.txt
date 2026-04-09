@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://asfar-furniture.com/sitemap.xml
+Sitemap: https://abusaud-furniture.com/sitemap.xml
 
 # Disallow admin and private areas
 Disallow: /admin/
