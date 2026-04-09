@@ -1,0 +1,23 @@
+{
+    "name": "شركة أسفار لشراء الأثاث المستعمل",
+    "short_name": "شركة أسفار",
+    "description": "نشتري جميع أنواع الأثاث المستعمل والأجهزة الكهربائية بأفضل الأسعار في المدينة المنورة",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#1a5f4a",
+    "theme_color": "#1a5f4a",
+    "icons": [
+        {
+            "src": "images/favicon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "images/apple-touch-icon.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+    ],
+    "lang": "ar",
+    "dir": "rtl"
+}

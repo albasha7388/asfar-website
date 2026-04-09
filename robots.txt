@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://asfar-furniture.com/sitemap.xml
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+
+# Crawl delay for better server performance
+Crawl-delay: 1
+
+
